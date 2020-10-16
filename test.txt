@@ -1,1 +1,24 @@
+Array
+(
+    [arise] => Array
+        (
+            [0] => originate
+            [1] => rise
+            [2] => develop
+            [3] => uprise
+        )
 
+    [revert] => Array
+        (
+            [0] => return
+            [1] => retrovert
+            [2] => regress
+        )
+
+    [danger] => Array
+        (
+            [0] => risk
+            [1] => peril
+        )
+
+)
